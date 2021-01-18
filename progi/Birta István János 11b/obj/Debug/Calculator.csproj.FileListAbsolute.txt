@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.g.resources
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.AboutBox.resources
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\Scientific-Calculator-master (1)\Scientific-Calculator-master\obj\Debug\Calculator.pdb
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\App.g.cs
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.pdb
+C:\Users\User\Desktop\progi\Birta István János 11b\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\progi\Birta István János 11b\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\progi\Birta István János 11b\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.g.resources
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.AboutBox.resources
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\progi\Birta István János 11b\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
